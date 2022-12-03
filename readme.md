@@ -1,0 +1,1 @@
+Odin Project Landing Page. Skills used will include setting up respoitory, html, css, and flexbox.
